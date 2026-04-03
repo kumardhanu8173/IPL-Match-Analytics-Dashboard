@@ -16,6 +16,16 @@ Microsoft Excel / Power BI / Tableau (jo bhi tumne use kiya ho)
 Data Cleaning & Transformation
 Data Visualization Techniques
 
+💡Looking for a custom dashboard ? Let's connect !
+
+#1. Player Performance Dashboard
+
+<img width="1920" height="1080" alt="Player Performance Dashboard" src="https://github.com/user-attachments/assets/db92b2da-01bd-4973-b79f-57e2c2c942aa" />
+
+#2. Team Performance Dashboard
+
+<img width="1920" height="1080" alt="Team Performance Dashboard" src="https://github.com/user-attachments/assets/874eaf7e-29f5-49b1-82a9-859c68dac7f4" />
+
 📂 Dataset Used
 
 - <a href="https://github.com/kumardhanu8173/IPL-Match-Analytics-Dashboard/blob/main/IPL%202025%20WORK.xlsx">Dataset View</a>
@@ -34,17 +44,6 @@ Venue information
 📸 Team Performance Dashboard Preview
 
 - <a href="https://github.com/kumardhanu8173/IPL-Match-Analytics-Dashboard/blob/main/Team%20Performance%20Dashboard.png">Team Performance Dashbosrd View</a>
-
-
-💡Looking for a custom dashboard ? Let's connect !
-
-#1. Player Performance Dashboard
-
-<img width="1920" height="1080" alt="Player Performance Dashboard" src="https://github.com/user-attachments/assets/db92b2da-01bd-4973-b79f-57e2c2c942aa" />
-
-#2. Team Performance Dashboard
-
-<img width="1920" height="1080" alt="Team Performance Dashboard" src="https://github.com/user-attachments/assets/874eaf7e-29f5-49b1-82a9-859c68dac7f4" />
 
 
 🎯 Objective
